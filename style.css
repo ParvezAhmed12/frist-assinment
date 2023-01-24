@@ -1,0 +1,145 @@
+*{
+  margin: 0px;
+}
+/* banner design */
+
+.header{
+    background-image: url(/images/banner/banner1.png);
+    width: 100%;
+    height: 750px;
+}
+.nav-title{ 
+    text-align: right;
+    padding-right: 230px;
+    padding-left: 854px;
+    padding-top: 216px;
+    
+   
+}
+
+.nav-head-text{
+
+  font-size: 30px;
+}
+
+.btn-one{
+  background-color: #F15B22;
+  border-radius: 5px;
+  color: #ffff;
+  border: 0;
+  padding: 20px 21px 26px 25px;
+ 
+}
+/* main containt  */
+
+.main-section{
+    display: flex;
+  
+   
+  }
+  .main-sub-section{
+    margin-top: 320px;
+ margin-left: 87px;
+ margin-right: 322px;
+  }
+  .failures{
+    font-size: 40px;
+  }
+  ul li{
+    list-style: none  ;
+  }
+  /* services area 1 */
+  .my-plans{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+  }
+
+  .services{
+    display: flex;
+    margin-left: 150px;
+    
+    
+    
+  }
+  .icons-margin{
+    margin-left: 160px   ;
+    margin-bottom: 130px;
+    margin-right: 50px;
+  }
+/* services area 2 */
+.possition{
+  margin-left:150px;
+}
+.img-background{
+ background-image: url(/images/watch.png);
+  background-repeat: no-repeat;
+
+ margin-left: 160px;
+ 
+}
+.services-two{
+  margin-top: -250px ;
+
+  margin-bottom: 130px;
+  margin-left: 230px ;
+  font-size: 50px;
+  color: #ffff;
+}
+.btn-two{
+  
+  background-color: #ffff;
+  color: #F15B22;
+  border: 0;
+  border-radius: 5px;
+  padding: 21px 36px  20px 36px;
+  font-size: 30px;
+   margin-top: -60px;
+
+}
+/* footer design */
+.footer-section{
+  display: flex;
+  background-color: black;
+}
+.future{
+  font-size: 40px;
+}
+.footer-one{
+  margin-top: 90px;
+  margin-bottom: 130px;
+  margin-left: 130px;
+  margin-right: 885px;
+  color: #ffff;
+
+
+}
+.icons-footer{
+  display: flex;
+  
+}
+.footer-icon-primary{
+  margin: 17px;
+}
+.footer-two{ 
+  color: #ffff;
+  margin-top: 130px;
+  margin-bottom: 243px;
+  margin-right: 250px;
+
+}
+.Subscribe{
+  font-size: 30px;
+}
+.final-btn{
+  color: #F15B22;
+  background-color: #ffff;
+  border: 0px;
+  border-radius: 5px;
+  padding: 20px 37px 20px 37px;
+  margin-top: 16px;
+
+}
+.e-mail{
+  margin-top: 38px;
+}
